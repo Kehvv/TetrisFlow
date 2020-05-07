@@ -3,7 +3,7 @@
 
 Copies of application provided in jupyter notebook and python format
 
-Please run BOTH Emotion  EmotionRecognitionCamera.py AND TetrisFlow.py
+Please run BOTH EmotionRecognitionCamera.py AND TetrisFlow.py
 
 EmotionClassifier.py is used to train the model
 
