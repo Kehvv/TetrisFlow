@@ -17,9 +17,13 @@ Please keep all files in the same directory!
 Configuration Instructions:
 
 > Install Python 3.7 https://www.python.org/downloads/release/python-370/
+
 > Install OpenCV Python: https://pypi.org/project/opencv-python/
+
 > Install Pygame: https://www.pygame.org/wiki/GettingStarted
+
 > Install Numpy: https://pypi.org/project/numpy/
+
 > Install Keras: https://pypi.org/project/Keras/
 
 Requires camera. Application assumes only one camera is installed.
